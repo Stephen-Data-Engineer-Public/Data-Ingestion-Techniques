@@ -58,3 +58,5 @@ git push origin feature/my-feature-name
 
 Go to your fork on GitHub, and click **"Compare & pull request"**. Add a clear title and description of your changes, then submit the PR to the original repo.
 
+I will try to merge your pull request as soon as possible
+
