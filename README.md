@@ -14,7 +14,6 @@ To contribute to this repository, you typically follow this workflow:
 Click **Fork** (top right). This creates a copy under your account.
 
 2. **Clone the Repository**
-
 ```bash
 git clone https://github.com/YOUR-USERNAME/Data-Ingestion.git
 cd Data-Ingestion
@@ -23,7 +22,6 @@ cd Data-Ingestion
 3. **Add the Original Repository as a Remote**
 
 This lets you keep your fork updated with the original repo.
-
 ```bash
 git remote add upstream https://github.com/RESGAD-TECH-UK/Data-Ingestion
 ```
@@ -31,7 +29,6 @@ git remote add upstream https://github.com/RESGAD-TECH-UK/Data-Ingestion
 4. **Create a New Branch for Your Changes**
 
 Always work on a separate branch (not `main` or `master`).
-
 ```bash
 git checkout -b feature/my-feature-name
 ```
@@ -41,16 +38,14 @@ git checkout -b feature/my-feature-name
 Edit files, add features, fix bugs, etc.
 
 6. **Stage and Commit Your Changes**
-
 ```bash
 git add .
 git commit -m "Add: Description of what you changed"
 ```
 
 7. **Push the Branch to Your Fork**
-
 ```bash
-git push origin feature/my-feature-name
+git push origin feature/your-feature-name
 ```
 
 8. **Open a Pull Request (PR)**
