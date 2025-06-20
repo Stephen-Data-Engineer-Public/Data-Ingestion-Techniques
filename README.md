@@ -1,9 +1,13 @@
 # Data-Ingestion-Techniques
 [Introduction to Data Ingestion](https://github.com/RESGAD-TECH-UK/Data-Ingestion/wiki/Data-Ingestion)
-[Data Ingestion: Batch Mode]
-[Data Ingestion: Batch: Python]
-[Data Ingestion: Streaming Mode]
-[Data Ingestion: Streaming: Python]
+
+[Batch Data Ingestion Mode](https://github.com/RESGAD-TECH-UK/Data-Ingestion-Techniques/wiki/Batch)
+
+[Batch Ingestion Python Example](https://github.com/RESGAD-TECH-UK/Data-Ingestion-Techniques/wiki/Python-Batch)
+
+[Streaming Data Ingestion Mode](https://github.com/RESGAD-TECH-UK/Data-Ingestion-Techniques/wiki/Streaming)
+
+[Streaming Ingestion Python Example](https://github.com/RESGAD-TECH-UK/Data-Ingestion-Techniques/wiki/Python-Streaming)
 
 
 
