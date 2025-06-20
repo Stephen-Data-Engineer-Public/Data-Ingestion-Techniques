@@ -1,4 +1,4 @@
-# Data-Ingestion
+# Data-Ingestion-Techniques
 [Introduction to Data Ingestion](https://github.com/RESGAD-TECH-UK/Data-Ingestion/wiki/Data-Ingestion)
 
 
